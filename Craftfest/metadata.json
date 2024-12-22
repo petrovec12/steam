@@ -1,0 +1,33 @@
+{
+    "id": "Craftfest",
+    "name": "Craftfest",
+    "website": "https://www.craftfest.cz/",
+    "description": "minecraft server with many games",
+    "addresses": [
+        "craftfest.eu"
+    ],
+    "primaryAddress": "craftfest.eu",
+    "primaryColor": "#ffdf0d",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+
+    "gameTypes": [
+        "Survival"
+        "Minigames"
+    ]
+}
